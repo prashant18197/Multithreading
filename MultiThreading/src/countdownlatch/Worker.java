@@ -2,11 +2,6 @@ package countdownlatch;
 
 import java.util.concurrent.CountDownLatch;
 
-/**
- * 
- * @author Prashant Nikam
- *
- */
 class Worker extends Thread 
 { 
     private int delay; 
